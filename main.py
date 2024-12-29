@@ -130,21 +130,28 @@ async def must_join_channel(bot: Client, msg: Message):
 async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
-        await asyncio.sleep(1)
-        await accha.edit("💨𝗚𝗥𝗢𝗨𝗣 𝗝𝗢𝗜𝗡 𝗞𝗥 𝗟𝗢 🌷°‌⁪༎꯭ࠫ𝆺𝅥•๋⸙‌ٖٖٖٖٖٖٜٖٖ 💌 🍷 https://t.me/BWF_MUSIC1 🍷💨𝗣𝗟𝗦 𝗜𝗡𝗧𝗘𝗭𝗔𝗥 𝗞𝗔𝗥 𝗥𝗛𝗜 𝗛𝗨 🍒🥀✨")
-        await asyncio.sleep(0.5)
-        await accha.edit("https://envs.sh/Jct.jpg ━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
-        await asyncio.sleep(0.5)
-        await accha.edit("https://envs.sh/Jct.jpg ━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
-        await asyncio.sleep(0.5)
-        await accha.delete("https://envs.sh/Jct.jpg ━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴄʜᴀᴛʙᴏᴛ ғᴀsᴛ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    :<a href=\"https://t.me/BWF_MUSIC1\">ᴀsʜɪsʜ</a> \n┣💌 𝗦ԩ𝐚ʏя𝗼 › : <a href=\"https://t.me/SHAYRI_CHANNEL1\">𝗦ԩ𝐚ʏя𝗼</a> ┓ \n┣💬 sᴜᴘᴘᴏʀᴛ › : <a href=\"https://t.me/BWF_MUSIC1\">Gʀᴏᴜᴘꨄ︎ʙω͠ғ</a>\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : <a href=\"https://t.me/MUSICBOT_OWNER\">ɴᴇᴛᴡᴏʀᴋ</a> \n┣👑 ᴅᴍ ᴛᴏ ᴍʏ <a href=\"https://t.me/L2R_KING\">ᴏᴡɴᴇʀ</a>...\n━━━━━━━━━━━━━━━━━━━━━━━━")
-        umm = await m.reply_sticker(
-                  sticker = STKR,
-        )
-        await asyncio.sleep(1)
+        await asyncio.sleep(1.3)
+        await accha.edit("__ʜᴇʟʟᴏ ʙᴀʙʏ..__")
+        await asyncio.sleep(0.2)
+        await accha.edit("__ɪ'ᴍ sᴏɴᴀʟɪ..__")
+        await asyncio.sleep(0.2)
+        await accha.edit("__sᴛᴀʀᴛɪɴɢ..__")
+        await asyncio.sleep(0.2)
+        await accha.edit("__sᴛᴀʀᴛᴇᴅ..__")
+        await asyncio.sleep(0.2)
+        await accha.delete()
+        umm = await m.reply_sticker(sticker=random.choice(STICKER))
+        await asyncio.sleep(2)
         await umm.delete()
         await m.reply_photo(
-            photo = START_IMG,
+            photo=random.choice(IMG),
+            caption=f"""**╭───────────────────⦿**\n**│❍ ʜᴇʏ ɪ ᴀᴍ {BOT_NAME} •**\n**├───────────────────⦿**\n**│❍ ɪ ʀᴇᴀᴅ ʏᴏᴜʀ ᴍɪɴᴅ •**\n**│❍ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ •**\n**├───────────────────⦿**\n**│❍ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs •**\n**│❍ ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ •**\n**│❍ ғᴏʀ ᴀᴄᴛɪᴠᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ •**\n**│❍ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ] •**\n**│❍ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ •**\n**│❍ 24x7 ᴛɪᴍᴇ ᴏɴʟɪɴᴇ •**\n**├───────────────────⦿**\n**│❍ ᴍᴀᴅᴇ ʙʏ...[˹ ʀᴀᴊᴀ-ʙᴀʙᴜ™ ˼](https://t.me/FRIEND_KI_MASTI)♡**\n**╰───────────────────⦿""",
+            reply_markup=InlineKeyboardMarkup(MAIN),
+        )
+        await add_served_user(m.from_user.id)
+    else:
+        await m.reply_photo(
+            photo=random.choice(IMG),
             caption=START,
             reply_markup=InlineKeyboardMarkup(MAIN),
         )
@@ -188,11 +195,8 @@ async def ping(client, message: Message):
         await txxt.delete()
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await message.reply_photo(
-                             photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [༄𝐿2𝙍.🜲𝐊𝐈𝐍𝐆❦︎](https://t.me/ALL_QUIZ_TAME)||**",
-                             reply_markup=InlineKeyboardMarkup(PNG_BTN),
-       )
+        await message.reply_photo(photo=random.choice(IMG),
+                             
 
 @BRANDEDCHAT.on_message(
     filters.command(["chatbot off", f"chatbot@{BOT_USERNAME} off"], prefixes=["/", ".", "?", "-"])
